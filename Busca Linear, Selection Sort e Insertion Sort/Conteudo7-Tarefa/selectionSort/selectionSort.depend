@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644256959 source:c:\users\diego\documents\atp2\aula 7 dia 24-01-2022 - busca linear, selection sort e insertion sort\selectionsort\selectionsort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

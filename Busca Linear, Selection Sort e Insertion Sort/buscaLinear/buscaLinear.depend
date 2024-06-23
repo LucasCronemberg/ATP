@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1644250957 source:c:\users\diego\documents\atp2\aula 7 dia 24-01-2022 - busca linear, selection sort e insertion sort\buscalinear\buscalinear.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1644242496 source:d:\2°semestre\atpii\atp2\aula 7 dia 24-01-2022 - busca linear, selection sort e insertion sort\buscalinear\buscalinear.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
