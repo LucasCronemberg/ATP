@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644156996 source:c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\usabibestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrizMultArq.h"
+
+1644155682 c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\usabibestatica\matrizmultarq.h
+

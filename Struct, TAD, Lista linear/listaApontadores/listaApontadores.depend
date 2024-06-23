@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647292464 source:d:\2°semestre\atpii\atp2\aula 11 dia 21-02-2022 - struct, tad, lista linear\listaapontadores\lista-apontadores.c
+	<sys/time.h>
+	<stdlib.h>
+	<stdio.h>
+

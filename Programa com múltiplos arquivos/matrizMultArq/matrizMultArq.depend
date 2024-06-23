@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644153631 source:c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\matrizmultarq\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrizMultArq.h"
+
+1644152097 c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\matrizmultarq\matrizmultarq.h
+
+1644154049 source:c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\matrizmultarq\matrizmultarq.c
+	"matrizMultArq.h"
+
