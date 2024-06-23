@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646827583 source:d:\2°semestre\atpii\atp2\aula 8 dia 31-01-2022 - ordenação bubble sort, shell sort, merge sort\ordbubblesort\ord_bolha.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1646827667 source:d:\2°semestre\atpii\atp2\aula 8 dia 31-01-2022 - ordenação bubble sort, shell sort, merge sort\ordbubblesort\parmaisproximointeiros.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

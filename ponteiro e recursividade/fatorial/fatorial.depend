@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644093707 source:c:\users\diego\documents\atp2\aula dia 08-11-2021 - ponteiro\fatorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
