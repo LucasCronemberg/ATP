@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644184218 source:c:\users\diego\documents\atp2\aula 5 dia 20-12-2021 - introdução geral a arquivo e arquivo do tipo texto\contagem_da_ocorrencia_de_um_caracter_no_conteudo_de_um_arquivo\contagemcaracterarquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1584205420 source:c:\users\diego\documents\atp2\aula 5 dia 20-12-2021 - introdução geral a arquivo e arquivo do tipo texto\contagem_da_ocorrencia_de_um_caracter_no_conteudo_de_um_arquivo\main.c
+	<stdio.h>
+	<stdlib.h>
+

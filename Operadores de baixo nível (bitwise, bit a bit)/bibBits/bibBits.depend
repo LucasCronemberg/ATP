@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644171071 source:c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\bibbits\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcoes.h"
+
+1644171071 c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\bibbits\funcoes.h
+

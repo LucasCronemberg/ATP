@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644168666 source:c:\users\diego\documents\atp2\aula dia 29-11-2021 - programa com múltiplos arquivos\bitwise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
